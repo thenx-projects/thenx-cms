@@ -4,7 +4,7 @@
 
 ---
 
-[toc]
+[TOC]
 
 ---
 
@@ -24,10 +24,10 @@
 
 ​      我们的主要目标是：
 
-      - 为所有个人、企业及其他性质的用户提供高效率的、极为敏捷且过于稳定的CMS系统；
-      - 开箱即用，为所有人节省运维成本；
-      - 提供一系列大型项目共有的非功能性功能（嵌入式服务器，安全性，指标，运行状况检查，外部化配置）；
-      - 提供友好的文档、说明及项目分析，帮助有需要的用户更加轻松的完成二次开发。
+- 为所有个人、企业及其他性质的用户提供高效率的、极为敏捷且过于稳定的CMS系统；
+- 开箱即用，为所有人节省运维成本；
+- 提供一系列大型项目共有的非功能性功能（嵌入式服务器，安全性，指标，运行状况检查，外部化配置）；
+- 提供友好的文档、说明及项目分析，帮助有需要的用户更加轻松的完成二次开发。
 
 ---
 
@@ -39,12 +39,12 @@
 
 ## 三、获得帮助
 
-​      对 Thenx CMS 产生了使用问题 ？我们必定无条件提供帮助 ：
+​      对 **Thenx CMS** 产生了使用问题 ？我们必定无条件提供帮助 ：
 
-      - 查看 [使用文档](https://thenx.org.cn/thenx-cms/help) ，这里记录了最常见的问题的解决方案；
-      - 查看 [二次开发指南](https://thenx.org.cn/thenx-cms/build) ，了解 Thenx CMS 基础知识能让你解决一切异常；
-      - 如果要更新你的 **Thenx CMS** 系统，请阅读 [发行版说明](https://thenx.org.cn/thenx-cms/msg)；
-      - 如果以上操作均为解决您的问题，您可以直接在该项目提交 [issues](https://github.com/thenx-projects/thenx-cms/issues) 报告 **Thenx CMS** 错误。
+- 查看 [使用文档](https://thenx.org.cn/thenx-cms/help) ，这里记录了最常见的问题的解决方案；
+- 查看 [二次开发指南](https://thenx.org.cn/thenx-cms/build) ，了解 Thenx CMS 基础知识能让你解决一切异常；
+- 如果要更新你的 **Thenx CMS** 系统，请阅读 [发行版说明](https://thenx.org.cn/thenx-cms/msg)；
+- 如果以上操作均为解决您的问题，您可以直接在该项目提交 [issues](https://github.com/thenx-projects/thenx-cms/issues) 报告 **Thenx CMS** 错误。
 
 ---
 
@@ -52,11 +52,11 @@
 
 ​      **Thenx CMS** 使用GitHub的集成问题跟踪系统来记录错误和功能请求。如果您要提出问题，请遵循以下建议：
 
-      - 在提交 **isssues** 之前，请先 [搜索](https://github.com/thenx-projects/thenx-cms/issues) **issues** 中是否已经有了解决方案或者已存在的问题；
-      - 如果问题不存在则 [新建 issues](https://github.com/thenx-projects/thenx-cms/issues/new) ；
-      - 请在提交 **issues** 的过程中，描述清楚您是如何遇到的当前问题，也请提供 **服务器版本**、**JDK版本**、**Thenx CMS** 版本，请善用文字描述，避免过激的话语；
-      - 如果需要粘贴代码或包含堆栈跟踪，请在文本前后使用Markdown```转义符；
-      - 可能，请尝试创建一个重现该问题的测试用例或项目，并将其附加到该问题上。
+- 在提交 **isssues** 之前，请先 [搜索](https://github.com/thenx-projects/thenx-cms/issues) **issues** 中是否已经有了解决方案或者已存在的问题；
+- 如果问题不存在则 [新建 issues](https://github.com/thenx-projects/thenx-cms/issues/new) ；
+- 请在提交 **issues** 的过程中，描述清楚您是如何遇到的当前问题，也请提供 **服务器版本**、**JDK版本**、**Thenx CMS** 版本，请善用文字描述，避免过激的话语；
+- 如果需要粘贴代码或包含堆栈跟踪，请在文本前后使用Markdown```转义符；
+- 可能，请尝试创建一个重现该问题的测试用例或项目，并将其附加到该问题上。
 
 ---
 
@@ -64,9 +64,9 @@
 
 ​      在我们的 [官方网站](https://thenx.org.cn) 中包含了项目的使用指南，可引导您一步一步的深入了解：
 
-      - 在 [Thenx CMS 功能描述](https://thenx.org.cn/thenx-cms/build/use.html) 页面中，向您展示了项目的每一个功能点的使用说明以及注意事项；
-      - 在 [Thenx CMS RESTful Web接口](https://thenx.org.cn/thenx-cms/interface) 中，我们向用户提供了二次开发接口文档说明；
-      - 在 [Thenx CMS Server](https://thenx.org.cn/thenx-cms/server) 中，我们向您展示了我们是如何在您的服务器上进行自动化部署的过程。
+- 在 [Thenx CMS 功能描述](https://thenx.org.cn/thenx-cms/build/use.html) 页面中，向您展示了项目的每一个功能点的使用说明以及注意事项；
+- 在 [Thenx CMS RESTful Web接口](https://thenx.org.cn/thenx-cms/interface) 中，我们向用户提供了二次开发接口文档说明；
+- 在 [Thenx CMS Server](https://thenx.org.cn/thenx-cms/server) 中，我们向您展示了我们是如何在您的服务器上进行自动化部署的过程。
 
 ## 六、开源协议
 
