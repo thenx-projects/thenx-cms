@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: thenx-cms-independent-config
+  security:
+    user:
+      name: admin
+      password: admin
+  datasource:
+    url: jdbc:mysql://localhost:3306/thenx_cms?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
+    username: thenx
+    password: thenx
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    host: localhost
+    port: 6379
+    password: thenx
+    database: 1
+    lettuce:
+      pool:
+        max-active: 1000
+        max-idle: 10
+        max-wait: -1
+        min-idle: 5
+server:
+  port: 30000
+  servlet:
+    context-path: /tc
+mybatis:
+  type-aliases-package: org.thenx.cms.independent.*.*
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
