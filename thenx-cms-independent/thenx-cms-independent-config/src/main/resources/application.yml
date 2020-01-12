@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: thenx-cms-independent-config
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port: 30000
+  servlet:
+    context-path: /tc
+
