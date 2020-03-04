@@ -52,7 +52,7 @@
 
 ​      **Thenx CMS** 使用GitHub的集成问题跟踪系统来记录错误和功能请求。如果您要提出问题，请遵循以下建议：
 
-- 在提交 **isssues** 之前，请先 [搜索](https://github.com/thenx-projects/thenx-cms/issues) **issues** 中是否已经有了解决方案或者已存在的问题；
+- 在提交 **issues** 之前，请先 [搜索](https://github.com/thenx-projects/thenx-cms/issues) **issues** 中是否已经有了解决方案或者已存在的问题；
 - 如果问题不存在则 [新建 issues](https://github.com/thenx-projects/thenx-cms/issues/new) ；
 - 请在提交 **issues** 的过程中，描述清楚您是如何遇到的当前问题，也请提供 **服务器版本**、**JDK版本**、**Thenx CMS** 版本，请善用文字描述，避免过激的话语；
 - 如果需要粘贴代码或包含堆栈跟踪，请在文本前后使用Markdown```转义符；
